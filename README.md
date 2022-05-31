@@ -62,7 +62,7 @@ Below is the Starbucks drinks recommendation based on different purposes and pre
 | Tazo Tea/Iced Shaken Beverages | Fitness First | Low Sugar, Low Calories |
 | Frappucciono/ Signature Espresso| Sweetness Overload | High Sugar |
 | Smoothies | Pre-workout | High Protein |
-| Signature Hot Chocolate | Goodnight Sleep | No caffeine |
+| Signature Hot Chocolate | Goodnight Sleep | No Caffeine |
 
 
 ## Visualization Gallery
