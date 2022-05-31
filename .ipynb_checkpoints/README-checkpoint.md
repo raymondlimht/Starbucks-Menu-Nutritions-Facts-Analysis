@@ -12,7 +12,7 @@ Starbucks offers a variety of drinks menu in the stores, including Signature Cof
 
 The dataset is obtained from Kaggle ([*link*](https://www.kaggle.com/datasets/starbucks/starbucks-menu)).
 
-![beverage_category](./img/beverage_category.png)
+<img src="./img/beverage_category.png" width="800">
 
 Based on the beverage categories, Classic Espresso Drinks has the highest number count from the Starbucks drink menu. They are Caffè Latte, Cappuccino, Caffè Americano. Followed by Tazo Tea Drinks and Signature Espresso Drinks. 
 
@@ -29,7 +29,7 @@ Java Chip (62 g), Caramel (58 g), and Caramel Apple Spice (57.5 g) are the top 3
 
 We also discovered high protein drinks are highly collerated to high calcium content and Vitamin A. Example of drinks with high proteins are Banana Chocolate Smoothie, Strawberry Banana Smoothie and Orange Mango Banana Smoothie. Fruits such as banana are usually high in protein (1.1 g / 100 g) and vitamins. ([*source*](https://www.healthline.com/nutrition/foods/bananas#nutrition)). 
  
-![calories_correlation](./img/correlation_with_calories.png)
+<img src="./img/correlation_with_calories.png" width="500">
  
 We found out the features that are highly correlated with Calories are Cholesterol, Sugars, and Carbohydrates, which range from 0.8-0.94.
 Suprisingly Total Fats are only 0.64 correlated to Calories which is lower than expected.
@@ -38,13 +38,14 @@ Suprisingly Total Fats are only 0.64 correlated to Calories which is lower than 
 #### Distribution plot
 By using the distribution plot, we are able to identify the drink's probability distributions based on different features. 
 
-![calories distributions](./img/calories_distribution_classic_signature.png)
+
+<img src="./img/calories_distribution_classic_signature.png" width="500">
 
 For example we can see that Classic Espresso Drinks has lower calories distributions at 100 cals compared to Signature Espresso Drinks distribute highest at 200 cals.
 
 KDE plot is also useful to observe the density of the drink based on multivariate variable. 
 
-![smoothie_iced_shaken](./img/smoothie_iced_shaken_probability_plot.png)
+<img src="./img/smoothie_iced_shaken_probability_plot.png" width="500">
 
 Comparing the calories content and protein content of Smoothie and Iced Shaken beverages, we can see that Iced Shaken drinks usually have lower protein content and lower calories count. In contrast, Smoothie such as Banana smoothie has higher calories and proteins. 
 
@@ -66,26 +67,27 @@ Below is the Starbucks drinks recommendation based on different purposes and pre
 
 ## Visualization Gallery
 
-![01_beverage_caffine](./img/gallery/01_beverage_caffine.png)
+<img src="./img/gallery/01_beverage_caffine.png" width="1200">
 
-![02_beverage_average_sugar](./img/gallery/02_beverage_average_sugar.png)
+<img src="./img/gallery/02_beverage_average_sugar.png" width="1200">
 
-![03_beverage_total_fats](./img/gallery/03_beverage_total_fats.png)
+<img src="./img/gallery/03_beverage_total_fats.png" width="1200">
 
-![04_heatmap](./img/gallery/04_heatmap.png)
+<img src="./img/gallery/04_heatmap.png" width="700">
 
-![05_features_correlation_protein](./img/gallery/05_features_correlation_protein.png)
+<img src="./img/gallery/05_features_correlation_protein.png" width="500">
 
-![07_scatterplot_calories_cholesterol](./img/gallery/07_scatterplot_calories_cholesterol.png)
+<img src="./img/gallery/07_scatterplot_calories_cholesterol.png" width="600">
 
-![08_scatterplot_calories_caffeine](./img/gallery/08_scatterplot_calories_caffeine.png)
+<img src="./img/gallery/08_scatterplot_calories_caffeine.png" width="600">
 
-![09_scatterplot_calories_fat](./img/gallery/09_scatterplot_calories_fat.png)
+<img src="./img/gallery/09_scatterplot_calories_fat.png" width="600">
 
-![10_caffeine_distribution_plot](./img/gallery/10_caffeine_distribution_plot.png)
+<img src="./img/gallery/10_caffeine_distribution_plot.png" width="600">
 
-![11_calories_distribution_plot](./img/gallery/11_calories_distribution_plot.png)
+<img src="./img/gallery/11_calories_distribution_plot.png" width="600">
 
-![12_tazo_vs_frappuccino](./img/gallery/12_tazo_vs_frappuccino.png)
+<img src="./img/gallery/12_tazo_vs_frappuccino.png" width="500">
 
-![13_classic_v_smoothie](./img/gallery/13_classic_v_smoothie.png)
+<img src="./img/gallery/13_classic_v_smoothie.png" width="500">
+
